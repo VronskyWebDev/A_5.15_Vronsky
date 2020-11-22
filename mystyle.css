@@ -1,0 +1,41 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    font-size: 1.2em;
+    margin-top: 0.5%;
+    margin-left: 20%;
+    margin-bottom: 2%;
+}
+
+.placeholder{
+    margin-bottom: 2%;
+}
+
+.side{
+    margin-right: 5%;
+    margin-top: 10%;
+}
+
+.input_block{
+    margin-top: 10px;
+    
+}
+
+.buttons{
+    margin-left: 20%;
+}
+.btn{
+    padding: 0.7% 2%;
+    margin-right: 2%;
+    font-size: 1em;
+    background: #315efb;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    border: none;
+     border-radius: 5px;
+}
+
+.btn:hover{
+    background: #685801;
+}
